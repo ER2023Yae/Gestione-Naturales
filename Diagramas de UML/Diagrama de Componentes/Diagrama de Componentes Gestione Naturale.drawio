@@ -1,0 +1,497 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="JC6zmTba0vr1UNWw0H7B">
+    <mxGraphModel dx="3839" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A63ixUfmBmtg-701TabH-1" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;InventarioUI&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1266" y="287.6199999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-2" parent="A63ixUfmBmtg-701TabH-1" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-1329" y="1692" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-6" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="748" width="370" x="-1361" y="509.8699999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-7" parent="A63ixUfmBmtg-701TabH-6" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-8" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;RegistrarProducto&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1267" y="567.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-9" parent="A63ixUfmBmtg-701TabH-8" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-355" y="1077.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-20" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;RegistrarLaboratorio&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1267" y="670.37" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-21" parent="A63ixUfmBmtg-701TabH-20" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-35" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;VentasUI&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-785" y="287.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-36" parent="A63ixUfmBmtg-701TabH-35" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-1330" y="701.25" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-38" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="830" width="370" x="-880" y="517.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-39" parent="A63ixUfmBmtg-701TabH-38" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-40" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;SeleccionarProductoVenta&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-786" y="695.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-41" parent="A63ixUfmBmtg-701TabH-40" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-42" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;VerDetalleSeleccion&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-786" y="918.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-43" parent="A63ixUfmBmtg-701TabH-42" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-44" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;CancelarSeleccion&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-786" y="807.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-45" parent="A63ixUfmBmtg-701TabH-44" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-700" y="437.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-56" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;ReportesUI&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-190" y="287.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-57" parent="A63ixUfmBmtg-701TabH-56" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-58" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-495" y="1357.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-59" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="410" width="370" x="-285" y="537.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-60" parent="A63ixUfmBmtg-701TabH-59" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-61" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;VerResumenVentasDiarias&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-190" y="607.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-62" parent="A63ixUfmBmtg-701TabH-61" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-63" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;VerCierreCaja&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-190" y="727.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-64" parent="A63ixUfmBmtg-701TabH-63" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-222" y="412.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-71" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;IngresarExistencias&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1267" y="767.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-72" parent="A63ixUfmBmtg-701TabH-71" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-73" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;RetirarExistencias&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1267" y="864.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-74" parent="A63ixUfmBmtg-701TabH-73" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-75" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;PermitirVentaFraccionada&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1267" y="967.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-76" parent="A63ixUfmBmtg-701TabH-75" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-79" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;VerDetalleVenta&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-786" y="1029.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-80" parent="A63ixUfmBmtg-701TabH-79" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-81" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;EfectuarVenta&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-786" y="1140.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-82" parent="A63ixUfmBmtg-701TabH-81" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-83" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;RegistrarDescuento&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-786" y="583.37" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-84" parent="A63ixUfmBmtg-701TabH-83" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-85" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;GenerarComprobante&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-786" y="1251.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-86" parent="A63ixUfmBmtg-701TabH-85" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-87" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;EditarProducto&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1267" y="1071.37" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-88" parent="A63ixUfmBmtg-701TabH-87" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-89" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;DescontinuarProducto&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1267" y="1174.37" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-90" parent="A63ixUfmBmtg-701TabH-89" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-91" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;GenerarReportePeriodico&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-190" y="848.12" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-92" parent="A63ixUfmBmtg-701TabH-91" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="29" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-93" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;GestioneNaturaleUI&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1211" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-94" parent="A63ixUfmBmtg-701TabH-93" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-95" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;InicioSesionUI&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1600" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-96" parent="A63ixUfmBmtg-701TabH-95" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-97" parent="1" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;Autenticacion&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-1600" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-98" parent="A63ixUfmBmtg-701TabH-97" style="shape=component;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-101" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-95" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" x="0.0222" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1510" y="190" />
+              <mxPoint x="-1510" y="180" />
+              <mxPoint x="-1510" y="170" />
+            </Array>
+            <mxPoint x="-1340" y="185" as="sourcePoint" />
+            <mxPoint x="-1510" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-108" connectable="0" parent="A63ixUfmBmtg-701TabH-101" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IGestioneNaturale" vertex="1">
+          <mxGeometry relative="1" x="-0.0804" as="geometry">
+            <mxPoint x="60" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-102" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1510" y="90" />
+            </Array>
+            <mxPoint x="-1600" y="100" as="sourcePoint" />
+            <mxPoint x="-1510" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-103" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-207" y="342.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-104" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1470" y="305" as="sourcePoint" />
+            <mxPoint x="-1510" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-109" connectable="0" parent="A63ixUfmBmtg-701TabH-104" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IInicioSesion" vertex="1">
+          <mxGeometry relative="1" x="0.0858" as="geometry">
+            <mxPoint x="50" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-105" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-95" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1510" y="305" as="sourcePoint" />
+            <mxPoint x="-1510" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-106" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-1495" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-112" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-835" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-113" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.51;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-298" y="182.62" as="sourcePoint" />
+            <mxPoint x="-98" y="217.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-129" connectable="0" parent="A63ixUfmBmtg-701TabH-113" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IGestioneNaturale" vertex="1">
+          <mxGeometry relative="1" x="0.4745" y="2" as="geometry">
+            <mxPoint x="62" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-114" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.505;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" x="0.2144" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1120" y="40" />
+              <mxPoint x="-870" y="40" />
+              <mxPoint x="-600" y="40" />
+              <mxPoint x="-98" y="40" />
+              <mxPoint x="-98" y="90" />
+            </Array>
+            <mxPoint x="-602.7600000000002" y="155.0000000000001" as="sourcePoint" />
+            <mxPoint x="-98" y="217.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-115" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-865" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-116" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.567;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" target="A63ixUfmBmtg-701TabH-55" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-725" y="432.62" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-117" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="A63ixUfmBmtg-701TabH-118" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-765" y="432.62" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-132" connectable="0" parent="A63ixUfmBmtg-701TabH-117" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IVenta" vertex="1">
+          <mxGeometry relative="1" x="0.4545" y="2" as="geometry">
+            <mxPoint x="28" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-119" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.567;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" target="A63ixUfmBmtg-701TabH-118" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-695" y="517.62" as="sourcePoint" />
+            <mxPoint x="-695" y="442.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-118" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-700" y="437.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-121" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" x="-0.0703" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1121" y="200" />
+              <mxPoint x="-890" y="200" />
+              <mxPoint x="-695" y="200" />
+            </Array>
+            <mxPoint x="-696" y="177.62" as="sourcePoint" />
+            <mxPoint x="-695" y="237.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-128" connectable="0" parent="A63ixUfmBmtg-701TabH-121" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IGestioneNaturale" vertex="1">
+          <mxGeometry relative="1" x="-0.1489" y="1" as="geometry">
+            <mxPoint x="340" y="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-122" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-725" y="247.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-123" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-710" y="232.62" as="sourcePoint" />
+            <mxPoint x="-695" y="237.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-124" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-735" y="227.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-125" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.506;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-98" y="447.62" as="sourcePoint" />
+            <mxPoint x="-98" y="427.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-133" connectable="0" parent="A63ixUfmBmtg-701TabH-125" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IReporte" vertex="1">
+          <mxGeometry relative="1" x="0.1402" as="geometry">
+            <mxPoint x="40" y="-47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-126" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.512;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-178" y="427.62" as="sourcePoint" />
+            <mxPoint x="-98" y="427.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-127" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-280" y="412.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-130" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&amp;lt;&amp;lt;Component&amp;gt;&amp;gt;&lt;div&gt;Ventas&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="-855" y="527.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-131" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&amp;lt;&amp;lt;Component&amp;gt;&amp;gt;&lt;div&gt;Reportes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="-258" y="547.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-136" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-960" y="287.6199999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-139" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-720" y="1377.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-140" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&amp;lt;&amp;lt;Component&amp;gt;&amp;gt;&lt;div&gt;Inventario&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="-1336" y="517.8699999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-144" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-207" y="1439.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-148" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-1186" y="469.8699999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-152" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-412" y="867.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-159" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-990" y="336.6199999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-160" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" x="0.029" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="317.62" />
+            </Array>
+            <mxPoint x="275" y="892.62" as="sourcePoint" />
+            <mxPoint x="265" y="877.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-161" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" x="-0.0939" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1176" y="1487.62" />
+              <mxPoint x="265" y="1487.62" />
+            </Array>
+            <mxPoint x="-1190" y="1484.0816326530612" as="sourcePoint" />
+            <mxPoint x="265" y="877.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-163" connectable="0" parent="A63ixUfmBmtg-701TabH-161" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IInventario" vertex="1">
+          <mxGeometry relative="1" x="0.9797" y="-4" as="geometry">
+            <mxPoint x="46" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-162" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="250" y="887.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-164" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-455" y="337.62" as="sourcePoint" />
+            <mxPoint x="-395" y="317.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-165" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-495" y="337.62" as="sourcePoint" />
+            <mxPoint x="-395" y="317.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-167" connectable="0" parent="A63ixUfmBmtg-701TabH-165" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IVentas" vertex="1">
+          <mxGeometry relative="1" x="0.6185" y="-1" as="geometry">
+            <mxPoint x="40" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-166" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-480" y="332.62" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-168" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="IInventario">
+          <mxGeometry relative="1" x="1" y="-46" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points" />
+            <mxPoint x="-1161" y="423" as="sourcePoint" />
+            <mxPoint x="-1176" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-169" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1201" y="423" as="sourcePoint" />
+            <mxPoint x="-1176" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-170" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-1186" y="418" as="geometry" />
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-171" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-910" y="450" as="sourcePoint" />
+            <mxPoint x="-940" y="317.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-172" edge="1" parent="1" source="A63ixUfmBmtg-701TabH-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1010" y="342" as="sourcePoint" />
+            <mxPoint x="-940" y="317.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-174" connectable="0" parent="A63ixUfmBmtg-701TabH-172" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IVentas" vertex="1">
+          <mxGeometry relative="1" x="0.8502" y="1" as="geometry">
+            <mxPoint x="11" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A63ixUfmBmtg-701TabH-173" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="-995" y="327" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
