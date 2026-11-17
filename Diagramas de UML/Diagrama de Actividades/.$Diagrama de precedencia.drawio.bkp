@@ -1,0 +1,67 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="WYq3pBFPQp_Sfr77zo_f">
+    <mxGraphModel dx="1212" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-3" edge="1" parent="1" source="4xavs3A3-Z_FbOSKf9zw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4xavs3A3-Z_FbOSKf9zw-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="A" vertex="1">
+          <mxGeometry height="80" width="80" x="80" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-12" edge="1" parent="1" source="4xavs3A3-Z_FbOSKf9zw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4xavs3A3-Z_FbOSKf9zw-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="B" vertex="1">
+          <mxGeometry height="80" width="80" x="220" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evaluación de panales&lt;div&gt;15&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="75" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Traslado de panales a cajas de extracción&lt;div&gt;10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="215" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-7" edge="1" parent="1" source="4xavs3A3-Z_FbOSKf9zw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4xavs3A3-Z_FbOSKf9zw-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="C" vertex="1">
+          <mxGeometry height="80" width="80" x="345" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-24" edge="1" parent="1" source="4xavs3A3-Z_FbOSKf9zw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4xavs3A3-Z_FbOSKf9zw-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="D" vertex="1">
+          <mxGeometry height="80" width="80" x="485" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Desoperculación&lt;div&gt;70&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="340" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Centrifugado&lt;div&gt;135&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="480" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-13" edge="1" parent="1" source="4xavs3A3-Z_FbOSKf9zw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4xavs3A3-Z_FbOSKf9zw-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="E" vertex="1">
+          <mxGeometry height="80" width="80" x="625" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="F" vertex="1">
+          <mxGeometry height="80" width="80" x="765" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Llenar Barriles&lt;div&gt;120&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="620" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cargar barriles para traslado&lt;div&gt;25&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="760" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4xavs3A3-Z_FbOSKf9zw-25" edge="1" parent="1" source="4xavs3A3-Z_FbOSKf9zw-16" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="930" y="340" as="sourcePoint" />
+            <mxPoint x="805" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
